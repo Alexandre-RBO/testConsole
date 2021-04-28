@@ -10,8 +10,8 @@ namespace testConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("premier test");
-            Console.ReadLine()
+            Console.WriteLine("deuxieme test");
+            Console.ReadLine();
         }
     }
 }
